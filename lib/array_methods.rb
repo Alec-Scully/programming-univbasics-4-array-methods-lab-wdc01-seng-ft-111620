@@ -2,8 +2,6 @@ def using_include(array, element)
   array.include?(element)
 end
 
-using_include(famous_wizards)
-
 def using_sort(array)
   array.sort
 end
