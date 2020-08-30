@@ -2,7 +2,7 @@ def using_include(array, element)
   array.include?(element)
 end
 
-w
+using_include(famous_wizards)
 
 def using_sort(array)
   array.sort
